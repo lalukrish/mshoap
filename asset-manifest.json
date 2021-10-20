@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mshoap/static/css/main.a617e044.chunk.css",
+    "main.js": "/mshoap/static/js/main.d4e30823.chunk.js",
+    "main.js.map": "/mshoap/static/js/main.d4e30823.chunk.js.map",
+    "runtime-main.js": "/mshoap/static/js/runtime-main.4fad073d.js",
+    "runtime-main.js.map": "/mshoap/static/js/runtime-main.4fad073d.js.map",
+    "static/js/2.a8811468.chunk.js": "/mshoap/static/js/2.a8811468.chunk.js",
+    "static/js/2.a8811468.chunk.js.map": "/mshoap/static/js/2.a8811468.chunk.js.map",
+    "static/js/3.895e05f9.chunk.js": "/mshoap/static/js/3.895e05f9.chunk.js",
+    "static/js/3.895e05f9.chunk.js.map": "/mshoap/static/js/3.895e05f9.chunk.js.map",
+    "index.html": "/mshoap/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/mshoap/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a8811468.chunk.js.LICENSE.txt": "/mshoap/static/js/2.a8811468.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mshoap/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fad073d.js",
+    "static/js/2.a8811468.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d4e30823.chunk.js"
+  ]
+}
