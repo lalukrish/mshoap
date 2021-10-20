@@ -1,11 +1,11 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
-const Profile=()=>{
+const Profile =()=>{
     return(
-        <div>
-            <h1>Profile</h1>
-        </div>
+        <div><h1>1hih</h1></div>
+
     )
+
 }
 
 export default Profile;

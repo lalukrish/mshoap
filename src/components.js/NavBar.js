@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import M from "materialize-css"
-const Navbar = () =>{
+const NavBar = () =>{
  return(
    
 
@@ -15,7 +15,7 @@ const Navbar = () =>{
             <ul >
             <li><Link to ="/signup">signup</Link> </li>
             <li><Link to ="/signin">signin</Link> </li>
-            <li><Link to ="/profile">profile</Link></li>
+            <li><Link to ="/profile">createpost</Link></li>
         </ul>
        
    </div>
@@ -46,4 +46,4 @@ const Navbar = () =>{
  );
 }
 
-export default Navbar;
+export default NavBar;
