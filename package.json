@@ -1,7 +1,7 @@
 {
   "name": "mshoap",
   "homepage": "https://lalukrish.github.io/mshoap/",
-  "proxy": "http://localhost:5051",
+  "proxy": "http://localhost:5050",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
